@@ -2,10 +2,18 @@
 
 This is a guide for people interested in adding some form of smart lighting and other home automation functionality to their house.
 
-by Jim Mussared
+by [Jim Mussared](https://twitter.com/jim_mussared)
+
 Last updated: Dec 2020
 
 Please send PRs or [raise issues](https://github.com/jimmo/home-automation/issues) if you have questions, suggestions, or improvements.
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 
 ### Why did you write this
 
